@@ -1,4 +1,5 @@
 🛰️Urbanization Change Detection Using Satellite Imagery:-
+
 Project Description:This project analyzes urbanization changes over time using satellite imagery and remote sensing techniques. It focuses on identifying urban growth patterns by computing spectral indices, performing clustering-based classification, and analyzing temporal trends from multi-year satellite data.
 
 AIM:
